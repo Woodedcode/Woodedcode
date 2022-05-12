@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Woodedcode
 - 👀 I’m interested in learning code and drinking whisk(e)y
-- 🌱 I’m currently learning to be a full stack developer
+- 🌱 Full Stack Developer
 - 💞️ I’m looking to collaborate on anything to get better at code
 - 📫 How to reach me email me at woodedcode@gmail.com
 
