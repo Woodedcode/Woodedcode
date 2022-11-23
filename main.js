@@ -9,3 +9,5 @@ portfolioItems.forEach(portfolioItem => {
         portfolioItem.childNodes[1].classList.remove('image-blur');
     });
 });
+
+
