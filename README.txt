@@ -8,23 +8,7 @@ and a cool depth effect (click on a menu item to see what I mean). Simple, fully
 responsive, and kitted out with all the usual pre-styled elements you'd expect.
 Hope you dig it :)
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Here is my portfolio for you to look at! It tells a little about me, gives you examples of my work, and a contact form to send me email and to keep up with me if you want to!
 
-(* = not included)
+Cheers!
 
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
