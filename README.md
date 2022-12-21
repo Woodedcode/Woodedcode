@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Woodedcode
-- 👀 I’m interested in coding and drinking whisk(e)y and tequila
-- 🌱 Full Stack Developer
+- 👀 I’m interested in codingm drinking whisk(e)y and/or tequila
+- 🌱 Full-Stack Developer
 - 💞️ I’m looking to collaborate on anything to get better at code
 - 📫 How to reach me email me at woodedcode@gmail.com
 
