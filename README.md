@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Woodedcode
-- 👀 I’m interested in codingm drinking whisk(e)y and/or tequila
+- 👀 I’m interested in coding, drinking whisk(e)y, and/or tequila
 - 🌱 Full-Stack Developer
 - 💞️ I’m looking to collaborate on anything to get better at code
-- 📫 How to reach me email me at woodedcode@gmail.com
+- 📫 Please reach out and email me at woodedcode@gmail.com for any collaborations
 
 <!---
 Woodedcode/Woodedcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
