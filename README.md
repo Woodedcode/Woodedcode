@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Woodedcode
-- 👀 I’m interested in coding, drinking whisk(e)y, and/or tequila
+- 👀 I love BBQ and traveling!
 - 🌱 Full-Stack Developer
 - 💞️ I’m looking to collaborate on anything to get better at code
 - 📫 Please reach out and email me at woodedcode@gmail.com for any collaborations
